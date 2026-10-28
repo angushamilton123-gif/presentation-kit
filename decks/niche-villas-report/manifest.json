@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "naimi.presentation.v1",
+  "id": "niche-villas-reporting-rehearsal",
+  "name": "Niche Villas — Baseline Reporting Rehearsal",
+  "description": "Evidence-based cumulative reporting rehearsal, September–October 2026",
+  "entry": "index.html",
+  "personalization": {
+    "fields": [],
+    "showCustomFields": false
+  },
+  "demoData": {
+    "namespace": "niche-villas",
+    "fields": []
+  },
+  "slides": [
+    {
+      "id": "cover",
+      "title": "Cover"
+    },
+    {
+      "id": "overview",
+      "title": "Executive overview"
+    },
+    {
+      "id": "numbers",
+      "title": "The numbers"
+    },
+    {
+      "id": "funnel",
+      "title": "Commercial funnel"
+    },
+    {
+      "id": "quality",
+      "title": "Search quality"
+    },
+    {
+      "id": "delivery",
+      "title": "Work performed"
+    },
+    {
+      "id": "finance",
+      "title": "Costs & financial status"
+    },
+    {
+      "id": "priorities",
+      "title": "Next decisions"
+    },
+    {
+      "id": "continuity",
+      "title": "Reporting discipline"
+    },
+    {
+      "id": "appendix",
+      "title": "Evidence & limitations"
+    }
+  ]
+}
