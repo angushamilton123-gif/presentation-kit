@@ -1,0 +1,1 @@
+naimi.ready(() => { /* Naimi runtime handles slide navigation and display. */ });
